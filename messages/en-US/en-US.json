@@ -1,0 +1,54 @@
+{
+    "grid":{
+        "groupPanelEmpty": "Drag a column header and drop it here to group by that column",
+        "pagerItemsPerPage": "items per page",
+        "pagerInfo": "{0} - {1} of {2} items",
+        "pagerFirstPage": "Go to the first page",
+        "pagerPreviousPage": "Go to the previous page",
+        "pagerNextPage": "Go to the next page",
+        "pagerLastPage": "Go to the last page",
+        "pagerPage": "Page",
+        "pagerOf": "of",
+        "filterClearButton":"Clear",
+        "filterEqOperator": "Is equal to",
+        "filterNotEqOperator": "Is not equal to",
+        "filterIsNullOperator": "Is null",
+        "filterIsNotNullOperator": "Is not null",
+        "filterIsEmptyOperator": "Is empty",
+        "filterIsNotEmptyOperator": "Is not empty",
+        "filterStartsWithOperator": "Starts with",
+        "filterContainsOperator": "Contains",
+        "filterNotContainsOperator": "Does not contain",
+        "filterEndsWithOperator": "Ends with",
+        "filterGteOperator": "Is greater than or equal to",
+        "filterGtOperator": "Is greater than",
+        "filterLteOperator": "Is less than or equal to",
+        "filterLtOperator":"Is less than",
+        "filterIsTrue":"Is true",
+        "filterIsFalse": "Is false",
+        "filterBooleanAll": "(All)",
+        "filterAfterOrEqualOperator": "Is after or equal to",
+        "filterAfterOperator": "Is after",
+        "filterBeforeOperator":"Is before",
+        "filterBeforeOrEqualOperator":"Is before or equal to",
+        "noRecords":"No records available."
+    },
+    "dateinput":{
+        "increment": "Increase value",
+        "decrement": "Decrease value"
+    },
+    "calendar":{
+        "today":"TODAY"
+    },
+    "datepicker":{
+        "toggleCalendar": "Toggle calendar"
+    },
+    "dropdowns":{
+        "nodata": "NO DATA FOUND.",
+        "clear": "Clear"
+    },
+    "numerictextbox":{
+        "increment": "Increase value",
+        "decrement": "Decrease value"
+    }
+}

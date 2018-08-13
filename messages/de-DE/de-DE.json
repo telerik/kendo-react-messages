@@ -1,0 +1,54 @@
+{
+    "grid":{
+        "groupPanelEmpty": "Ziehen Sie einen Spaltentitel hierher um nach dieser Spalte zu gruppieren",
+        "pagerItemsPerPage": "Einträge pro Seite",
+        "pagerInfo": "{0} - {1} von {2} Einträgen",
+        "pagerFirstPage": "Zur ersten Seite",
+        "pagerPreviousPage": "Seite zurück",
+        "pagerNextPage": "Nächste Seite",
+        "pagerLastPage": "Zur letzten Seite",
+        "pagerPage": "Seite",
+        "pagerOf": "von",
+        "filterClearButton":"Löschen",
+        "filterEqOperator": "Ist gleich",
+        "filterNotEqOperator": "Ist nicht gleich",
+        "filterIsNullOperator": "Ist leer",
+        "filterIsNotNullOperator": "Ist nicht leer",
+        "filterIsEmptyOperator": "Ist leer",
+        "filterIsNotEmptyOperator": "Ist nicht leer",
+        "filterStartsWithOperator": "Beginnt mit",
+        "filterContainsOperator": "Enthält",
+        "filterNotContainsOperator": "Enthält nicht",
+        "filterEndsWithOperator": "Endet mit",
+        "filterGteOperator": "Größer oder gleich",
+        "filterGtOperator": "Größer als",
+        "filterLteOperator": "Kleiner oder gleich",
+        "filterLtOperator":"Kleiner als",
+        "filterIsTrue":"Wahr",
+        "filterIsFalse": "Falsch",
+        "filterBooleanAll": "(Alle)",
+        "filterAfterOrEqualOperator": "Danach oder gleich",
+        "filterAfterOperator": "Danach",
+        "filterBeforeOperator":"Davor",
+        "filterBeforeOrEqualOperator":"Davor oder gleich",
+        "noRecords":"Keine Einträge vorhanden."
+    },
+    "dateinput":{
+        "increment": "Wert erhöhen",
+        "decrement": "Wert verringern"
+    },
+    "calendar":{
+        "today":"Heute"
+    },
+    "datepicker":{
+        "toggleCalendar": "Kalender ein-/ausblenden"
+    },
+    "dropdowns":{
+        "nodata": "Keine Daten vorhanden",
+        "clear": "Löschen"
+    },
+    "numerictextbox":{
+        "increment": "Wert erhöhen",
+        "decrement": "Wert verringern"
+    }
+}
