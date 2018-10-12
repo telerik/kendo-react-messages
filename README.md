@@ -1,11 +1,11 @@
-# Kendo UI for React: Translation of Messages
+# KendoReact: Translation of Messages
 
 * [Overview](https://www.telerik.com/kendo-react-ui/components/globalization/l10n/#toc-translation-of-messages)
 * [Loading Messages](https://www.telerik.com/kendo-react-ui/components/globalization/l10n/loading-messages/)
 
 ## Overview
 
-This repository contains translated messages for Kendo UI components for React.
+This repository contains translated messages for KendoReact components.
 
 ## Basic Usage
 
