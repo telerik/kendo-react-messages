@@ -50,5 +50,22 @@
     "numerictextbox":{
         "increment": "Increase value",
         "decrement": "Decrease value"
+    },
+    "upload": {
+        "cancel": "Cancel",
+        "clearSelectedFiles": "Clear",
+        "dropFilesHere": "Drop files here to upload",
+        "headerStatusUploaded": "Done",
+        "headerStatusUploading": "Uploading...",
+        "invalidFileExtension": "File type not allowed.",
+        "invalidFiles": "Invalid file(s). Please check file upload requirements.",
+        "invalidMaxFileSize": "File size too large.",
+        "invalidMinFileSize": "File size too small.",
+        "remove": "Remove",
+        "retry": "Retry",
+        "select": "Select files...",
+        "uploadSelectedFiles": "Upload",
+        "total": "Total",
+        "files": "files"
     }
 }
