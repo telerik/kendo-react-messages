@@ -67,5 +67,8 @@
         "uploadSelectedFiles": "Upload",
         "total": "Total",
         "files": "files"
+    },
+    "sortable": {
+        "noData": "No Data"
     }
 }
