@@ -9,9 +9,20 @@
         "increment": "Incrementar valor",
         "decrement": "Disminuir valor"
     },
+    "datetimepicker": {
+        "date": "Fecha",
+        "time": "Hora",
+        "cancel": "Cancelar",
+        "set": "Establecer"
+    },
     "numerictextbox": {
         "increment": "Incrementar valor",
         "decrement": "Disminuir valor"
+    },
+    "timepicker": {
+        "now": "AHORA",
+        "set": "Establecer",
+        "cancel": "Cancelar"
     },
     "grid": {
         "groupPanelEmpty": "Arrastre el título de una columna y suéltelo aquí para agrupar por ese criterio",
@@ -46,9 +57,12 @@
         "filterAfterOperator": "Es posterior",
         "filterBeforeOperator": "Es anterior",
         "filterBeforeOrEqualOperator": "Es anterior o igual a",
-        "filterFilterButton": "Filtrar",
-        "filterClearButton": "Limpiar filtros",
+        "filterSubmitButton": "Filtrar",
+        "filterClearButton": "Limpiar",
         "filterAndLogic": "Y",
-        "filterOrLogic": "O"
+        "filterOrLogic": "O",
+        "filterTitle": "Filtros",
+        "sortAscending": "Orden ascendente",
+        "sortDescending": "Orden descendente"
     }
 }
