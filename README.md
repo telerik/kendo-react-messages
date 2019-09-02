@@ -9,4 +9,4 @@ This repository contains translated messages for KendoReact components.
 
 ## Basic Usage
 
-To load the messages and associate them with a specific language, utilize the [`loadMessages`](https://www.telerik.com/kendo-react-ui/components/globalization/api/loadMessages/) method that is exported by the Internationalization package. The messages can be either in the form of a JSON file or as an iterable key-value collection.
+To load the messages and associate them with a specific language, utilize the [`loadMessages`](https://www.telerik.com/kendo-react-ui/components/intl/api/loadMessages/) method that is exported by the Internationalization package. The messages can be either in the form of a JSON file or as an iterable key-value collection.
