@@ -1,11 +1,15 @@
-# Kendo UI for React
+This project has been released under the [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html), the text of which is included below. This license applies ONLY to the source of this repository and does not extend to any other Kendo UI distribution or variant, or any other 3rd party libraries used in a repository. For licensing information about KendoReact, see the [License Agreements page](https://www.telerik.com/purchase/license-agreement/progress-kendoreact) at [KendoReact.com](http://www.kendoreact.com).
 
-This package is part of the [Kendo UI for React](http://www.telerik.com/kendo-react-ui/) suite.
+> Copyright © 2019 Progress Software Corporation and/or its subsidiaries or affiliates.
 
-## License
+> Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
 
-This is commercial software. To use it, you need to agree to the [**Telerik End User License Agreement for Kendo UI Complete**](http://www.telerik.com/purchase/license-agreement/kendo-ui-complete). If you do not own a commercial license, this file shall be governed by the trial license terms.
+> [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
-All available Kendo UI commercial licenses may be obtained at http://www.telerik.com/purchase/kendo-ui.
-
-*Copyright © 2017 Telerik EAD. All rights reserved.*
+>  Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
