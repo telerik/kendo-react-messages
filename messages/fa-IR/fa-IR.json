@@ -32,7 +32,9 @@
         "filterAfterOperator": "بعد باش",
         "filterBeforeOperator":"قبل باشد",
         "filterBeforeOrEqualOperator":"قبل یا مساوی باشد با",
-        "noRecords":"ردیفی برای نمایش وجود ندارد."
+        "noRecords":"ردیفی برای نمایش وجود ندارد.",
+        "sortAscending": "مرتب سازی صعودی",
+        "sortDescending": "مرتب سازی نزولی"
     },
     "dateinput":{
         "increment": "افزایش",
