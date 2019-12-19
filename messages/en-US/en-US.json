@@ -43,6 +43,27 @@
     "datepicker":{
         "toggleCalendar": "Toggle calendar"
     },
+    "daterangepicker": {
+        "swapStartEnd": "Swap start and end values",
+        "start": "Start",
+        "end": "End",
+        "separator": " "
+    },
+    "datetimepicker": {
+        "date": "Date",
+        "time": "Time",
+        "toggleDateTimeSelector": "Toggle date-time selector",
+        "cancel": "Cancel",
+        "set": "Set"
+    },
+    "timepicker": {
+        "now": "NOW",
+        "selectNow": "Select Now",
+        "cancel": "Cancel",
+        "set": "Set",
+        "toggleTimeSelector": "Toggle TimeSelector",
+        "toggleClock": "Toggle Clock"
+    },
     "dropdowns":{
         "nodata": "NO DATA FOUND.",
         "clear": "Clear"
