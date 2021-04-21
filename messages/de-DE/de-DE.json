@@ -43,6 +43,27 @@
     "datepicker":{
         "toggleCalendar": "Kalender ein-/ausblenden"
     },
+    "daterangepicker": {
+        "swapStartEnd": "Start- und Enddatum tauschen",
+        "start": "Start",
+        "end": "Ende",
+        "separator": " "
+    },
+    "datetimepicker": {
+        "date": "Datum",
+        "time": "Uhrzeit",
+        "toggleDateTimeSelector": "Datum/Uhrzeit-Auswahl anzeigen/verstecken",
+        "cancel": "Abbrechen",
+        "set": "Übernehmen"
+    },
+    "timepicker": {
+        "now": "JETZT",
+        "selectNow": "Aktuelle Uhrzeit auswählen",
+        "cancel": "Abbrechen",
+        "set": "Übernehmen",
+        "toggleTimeSelector": "Uhrzeit-Auswahl anzeigen/verstecken",
+        "toggleClock": "Uhr umschalten"
+    },
     "dropdowns":{
         "nodata": "Keine Daten vorhanden",
         "clear": "Löschen"
