@@ -2,7 +2,7 @@
     "grid":{
         "groupPanelEmpty": "Для группировки перетащите заголовок столбца в эту область",
         "pagerItemsPerPage": "строк на странице",
-        "pagerInfo": "{0} - {1} of {2} строк",
+        "pagerInfo": "{0} - {1} из {2} строк",
         "pagerFirstPage": "На первую страницу",
         "pagerPreviousPage": "На предыдущую страницу",
         "pagerNextPage": "На следующую страницу",
