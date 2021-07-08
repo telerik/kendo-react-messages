@@ -31,7 +31,9 @@
         "filterAfterOperator": "Is after",
         "filterBeforeOperator":"Is before",
         "filterBeforeOrEqualOperator":"Is before or equal to",
-        "noRecords":"No records available."
+        "noRecords":"No records available.",
+        "groupColumn": "Group Column",
+        "ungroupColumn": "Ungroup Column"
     },
     "filter": {
         "eqOperator": "Is equal to",
