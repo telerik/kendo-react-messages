@@ -31,7 +31,22 @@
         "filterAfterOperator": "Is after",
         "filterBeforeOperator":"Is before",
         "filterBeforeOrEqualOperator":"Is before or equal to",
-        "noRecords":"No records available."
+        "noRecords":"No records available.",
+        "filterAriaLabel": "Filter",
+        "filterCheckAll": "Check All",
+        "filterChooseOperator": "Choose Operator",
+        "filterSelectedItems": "selected items",
+        "filterSubmitButton": "Filter",
+        "filterTitle": "Filter",
+        "filterAndLogic": "And",
+        "filterOrLogic": "Or",
+        "groupColumn": "Group Column",
+        "pagerTotalPages": "{0}",
+        "searchPlaceholder": "Search",
+        "sortAriaLabel": "Sortable",
+        "sortAscending": "Sort Ascending",
+        "sortDescending": "Sort Descending",
+        "ungroupColumn": "Ungroup Column",
     },
     "filter": {
         "eqOperator": "Is equal to",
@@ -58,7 +73,8 @@
         "orLogic": "Or",
         "addExpression": "Add Expression",
         "addGroup": "Add Group",
-        "close": "Close"
+        "close": "Close",
+        "filterAriaLabel": "Filter"
     },
     "dateinput":{
         "increment": "Increase value",
@@ -134,7 +150,34 @@
         "viewHtml": "View HTML",
         "viewHtml-dialog-title": "View HTML",
         "viewHtml-cancel": "Cancel",
-        "viewHtml-update": "Update"
+        "viewHtml-update": "Update",
+        "print": "Print",
+        "selectAll": "Select All",
+        "cleanFormatting": "Clean formatting",
+        "pdf": "Export as PDF",
+        "foregroundColor": "Color",
+        "backgroundColor": "Background color",        
+        "insertFile": "Insert file",
+        "insertFileDialogTitle": "Insert file",
+        "insertFileAddress": "Web address",
+        "insertFileTitle": "Title",
+        "insertFileCancel": "Cancel",
+        "insertFileInsert": "Insert",
+        "findReplaceToolTitle": "Find and Replace",
+        "findReplaceDialogTitle": "Find and Replace",
+        "findReplaceTabFind": "Find",
+        "findReplaceTabReplace": "Replace",
+        "findReplaceFindWhat": "Find What:",
+        "findReplaceReplaceWith": "Replace With",
+        "findReplaceReplace": "Replace",
+        "findReplaceReplaceAll": "Replace All",
+        "findReplaceMatchCase": "Match Case",
+        "findReplaceMatchWord": "Match whole word only",
+        "findReplaceMatchCyclic": "Match cyclic (Wrap around)",
+        "findReplaceUseRegExp": "Regular Expression",
+        "findReplacePrevMatch": "Prev",
+        "findReplaceNextMatch": "Next",
+        "findReplaceMatches": "{0} of {1} matches"
     },
     "timepicker": {
         "now": "NOW",
@@ -167,7 +210,11 @@
         "select": "Select files...",
         "uploadSelectedFiles": "Upload",
         "total": "Total",
-        "files": "files"
+        "files": "files",
+        "dropZoneHint": "Drag and drop files here to upload.",
+        "dropZoneNote": "Only JPEG and PNG files are allowed.",
+        "statusUploadFailed": "File(s) failed to upload.",
+        "statusUploaded": "File(s) successfully uploaded."
     },
     "sortable": {
         "noData": "No Data"
@@ -180,7 +227,8 @@
         "nextPage": "Go to the next page",
         "lastPage": "Go to the last page",
         "page": "Page",
-        "of": "of"
+        "of": "of",
+        "pagerTotalPages": "{0}"
     },
     "treelist": {
         "filterClearButton": "Clear",
@@ -284,5 +332,125 @@
         "timeTitle": "Time",
         "eventTitle": "Event",
         "noEvents": "no events"
+    },
+    "listbox": {
+        "moveUp": "Move Up",
+        "moveDown": "Move Down",
+        "transferTo": "Transfer To",
+        "transferFrom": "Transfer From",
+        "transferAllTo": "Transfer All To",
+        "transferAllFrom": "Transfer All From",
+        "remove": "Delete"
+    },
+    "stepper": {
+        "optionalText": "(Optional)"
+    },
+    "labels": {
+        "labelsOptional": "(Optional)"
+    },
+    "slider": {
+       "increment": "Increase",
+       "decrement": "Decrease",
+       "dragTitle": "Drag"
+    },
+    "colorGradient": {
+        "r": "r",
+        "g": "g",
+        "b": "b",
+        "a": "a",
+        "hex": "hex",
+        "contrastRatio": "Contrast ratio",
+        "colorGradientAALevel": "AA",
+        "colorGradientAAALevel": "AAA",
+        "colorGradientPass": "Pass",
+        "colorGradientFail": "Fail"
+    },
+    "checkbox": {
+        "validation": "Please check this box if you want to proceed!",
+        "optionalText": "(Optional)"
+    },
+    "radioButton": {
+       "validation": "Please select option if you want to proceed!"
+    },
+    "switch": {
+        "validation": "Please turn on if you want to proceed!"
+    },
+    "gantt": {
+        "weekViewTitle": "Week",
+        "dayViewTitle": "Day",
+        "monthViewTitle": "Month",
+        "yearViewTitle": "Year",
+        "filterClearButton": "Clear",
+        "filterEqOperator": "Is equal to",
+        "filterNotEqOperator": "Is not equal to",
+        "filterIsNullOperator": "Is null",
+        "filterIsNotNullOperator": "Is not null",
+        "filterIsEmptyOperator": "Is empty",
+        "filterIsNotEmptyOperator": "Is not empty",
+        "filterStartsWithOperator": "Starts with",
+        "filterContainsOperator": "Contains",
+        "filterNotContainsOperator": "Does not contain",
+        "filterEndsWithOperator": "Ends with",
+        "filterGteOperator": "Is greater than or equal to",
+        "filterGtOperator": "Is greater than",
+        "filterLteOperator": "Is less than or equal to",
+        "filterLtOperator": "Is less than",
+        "filterIsTrue": "Is true",
+        "filterIsFalse": "Is false",
+        "filterBooleanAll": "(All)",
+        "filterAfterOrEqualOperator": "Is after or equal to",
+        "filterAfterOperator": "Is after",
+        "filterBeforeOperator": "Is before",
+        "filterBeforeOrEqualOperator": "Is before or equal to",
+        "noRecords": "No records available",
+        "editorSave": "Save",
+        "editorCancel": "Cancel",
+        "editorTitle": "Task",
+        "editorTaskTitle": "Title",
+        "editorTaskStart": "Start",
+        "editorTaskEnd": "End",
+        "editorTaskComplete": "Complete",
+        "editorValidationRequired": "Field is required.",
+        "editorValidationStart": "Start time must be be before End time.",
+        "editorValidationEnd": "End time must be after Start time.",
+        "addTask": "Add Task",
+        "addChild": "Add Child",
+        "addAbove": "Add Above",
+        "addBelow": "Add Below",
+        "editorDelete": "Delete",
+        "deleteConfirmation": "Are you sure you want to delete this event?",
+        "deleteDialogTitle": "Delete Event"
+    },
+    "multiviewcalendar": {
+        "prevView": "Navigate to previous view",
+        "nextView": "Navigate to next view"
+    },
+    "columnMenu": {
+        "columnMenuFilterClearButton": "Clear",
+        "columnMenuFilterSubmitButton": "Filter",
+        "columnMenuFilterTitle": "Filter",
+        "columnMenuSortAscending": "Sort Ascending",
+        "columnMenuSortDescending": "Sort Descending",
+        "columnMenuFilterEqOperator": "Is equal to",
+        "columnMenuFilterNotEqOperator": "Is not equal to",
+        "columnMenuFilterIsNullOperator": "Is null",
+        "columnMenuFilterIsNotNullOperator": "Is not null",
+        "columnMenuFilterIsEmptyOperator": "Is empty",
+        "columnMenuFilterIsNotEmptyOperator": "Is not empty",
+        "columnMenuFilterStartsWithOperator": "Starts with",
+        "columnMenuFilterContainsOperator": "Contains",
+        "columnMenuFilterNotContainsOperator": "Does not contain",
+        "columnMenuFilterEndsWithOperator": "Ends with",
+        "columnMenuFilterGteOperator": "Is greater than or equal to",
+        "columnMenuFilterGtOperator": "Is greater than",
+        "columnMenuFilterLteOperator": "Is less than or equal to",
+        "columnMenuFilterLtOperator": "Is less than",
+        "columnMenuFilterIsTrue": "Is true",
+        "columnMenuFilterAfterOrEqualOperator": "Is after or equal to",
+        "columnMenuFilterAfterOperator": "Is after",
+        "columnMenuFilterBeforeOperator": "Is before",
+        "columnMenuFilterBeforeOrEqualOperator": "Is before or equal to",
+        "columnMenuFilterAndLogic": "And",
+        "columnMenuFilterOrLogic": "Or"
     }
 }
