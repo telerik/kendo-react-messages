@@ -1,7 +1,7 @@
 # KendoReact: Translation of Messages
 
-* [Overview](https://www.telerik.com/kendo-react-ui/components/globalization/l10n/#toc-translation-of-messages)
-* [Loading Messages](https://www.telerik.com/kendo-react-ui/components/globalization/l10n/loading-messages/)
+* [Overview](https://www.telerik.com/kendo-react-ui/components/intl/l10n/#toc-translation-of-messages)
+* [Loading Messages](https://www.telerik.com/kendo-react-ui/components/intl/l10n/loading-messages/)
 
 ## Overview
 
