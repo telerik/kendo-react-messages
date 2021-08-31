@@ -46,7 +46,7 @@
         "sortAriaLabel": "Sortable",
         "sortAscending": "Sort Ascending",
         "sortDescending": "Sort Descending",
-        "ungroupColumn": "Ungroup Column",
+        "ungroupColumn": "Ungroup Column"
     },
     "filter": {
         "eqOperator": "Is equal to",
@@ -452,5 +452,19 @@
         "columnMenuFilterBeforeOrEqualOperator": "Is before or equal to",
         "columnMenuFilterAndLogic": "And",
         "columnMenuFilterOrLogic": "Or"
+    },
+    "pivotgrid": {
+        "fieldMenuReset": "Reset",
+        "fieldMenuApply": "Apply",
+        "configuratorCancel": "Cancel",
+        "configuratorApply": "Apply",
+        "configuratorTitle": "Settings",
+        "configuratorEditorSearchTitle": "Fields",
+        "configuratorEditorSearchPlaceholder": "Search...",
+        "configuratorColumnsTitle": "Columns",
+        "configuratorRowsTitle": "Rows",
+        "configuratorMeasuresTitle": "Values",
+        "configuratorButtonLabel": "Change settings",
+        "configuratorMissingFields": "Select some fields to begin setup"
     }
 }
