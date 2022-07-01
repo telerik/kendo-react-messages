@@ -31,7 +31,9 @@
         "filterAfterOperator": "Si trova dopo",
         "filterBeforeOperator":"Si trova prima",
         "filterBeforeOrEqualOperator":"Si trova prima o uguale a",
-        "noRecords":"Nessun record disponibile."
+        "noRecords":"Nessun record disponibile.",
+         "sortAscending": "Ordine crescente",
+        "sortDescending": "Ordine decrescente"
     },
     "filter": {
         "eqOperator": "Uguale a",
