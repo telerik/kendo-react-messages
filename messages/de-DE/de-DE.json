@@ -31,7 +31,9 @@
         "filterAfterOperator": "Danach",
         "filterBeforeOperator":"Davor",
         "filterBeforeOrEqualOperator":"Davor oder gleich",
-        "noRecords":"Keine Einträge vorhanden."
+        "noRecords":"Keine Einträge vorhanden.",
+        "sortAscending": "Aufsteigend sortieren",
+        "sortDescending": "Absteigend sortieren"
     },
     "filter": {
         "eqOperator": "Ist gleich zu",
