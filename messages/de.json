@@ -1,5 +1,5 @@
 {
-    "grid":{
+    "grid": {
         "groupPanelEmpty": "Ziehen Sie einen Spaltentitel hierher um nach dieser Spalte zu gruppieren",
         "pagerItemsPerPage": "Einträge pro Seite",
         "pagerInfo": "{0} - {1} von {2} Einträgen",
@@ -9,7 +9,7 @@
         "pagerLastPage": "Zur letzten Seite",
         "pagerPage": "Seite",
         "pagerOf": "von",
-        "filterClearButton":"Löschen",
+        "filterClearButton": "Löschen",
         "filterEqOperator": "Ist gleich",
         "filterNotEqOperator": "Ist nicht gleich",
         "filterIsNullOperator": "Ist leer",
@@ -23,15 +23,15 @@
         "filterGteOperator": "Größer oder gleich",
         "filterGtOperator": "Größer als",
         "filterLteOperator": "Kleiner oder gleich",
-        "filterLtOperator":"Kleiner als",
-        "filterIsTrue":"Wahr",
+        "filterLtOperator": "Kleiner als",
+        "filterIsTrue": "Wahr",
         "filterIsFalse": "Falsch",
         "filterBooleanAll": "(Alle)",
         "filterAfterOrEqualOperator": "Danach oder gleich",
         "filterAfterOperator": "Danach",
-        "filterBeforeOperator":"Davor",
-        "filterBeforeOrEqualOperator":"Davor oder gleich",
-        "noRecords":"Keine Einträge vorhanden.",
+        "filterBeforeOperator": "Davor",
+        "filterBeforeOrEqualOperator": "Davor oder gleich",
+        "noRecords": "Keine Einträge vorhanden.",
         "sortAscending": "Aufsteigend sortieren",
         "sortDescending": "Absteigend sortieren"
     },
@@ -62,14 +62,14 @@
         "addGroup": "Gruppe hinzufügen",
         "close": "Schließen"
     },
-    "dateinput":{
+    "dateinput": {
         "increment": "Wert erhöhen",
         "decrement": "Wert verringern"
     },
-    "calendar":{
-        "today":"Heute"
+    "calendar": {
+        "today": "Heute"
     },
-    "datepicker":{
+    "datepicker": {
         "toggleCalendar": "Kalender ein-/ausblenden"
     },
     "daterangepicker": {
@@ -146,11 +146,11 @@
         "toggleTimeSelector": "Uhrzeit-Auswahl anzeigen/verstecken",
         "toggleClock": "Uhr umschalten"
     },
-    "dropdowns":{
+    "dropdowns": {
         "nodata": "Keine Daten vorhanden",
         "clear": "Löschen"
     },
-    "numerictextbox":{
+    "numerictextbox": {
         "increment": "Wert erhöhen",
         "decrement": "Wert verringern"
     },

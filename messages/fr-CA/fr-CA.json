@@ -31,7 +31,9 @@
         "filterAfterOperator": "Est postérieur",
         "filterBeforeOperator": "Est antérieur",
         "filterBeforeOrEqualOperator": "Est antérieur ou égal à",
-        "noRecords": "Aucun enregistrement disponible."
+        "noRecords": "Aucun enregistrement disponible.",
+        "sortAscending": "Tri croissant",
+        "sortDescending": "Tri décroissant"
     },
     "dateinput":{
         "increment": "Augmenter la valeur",

@@ -1,5 +1,5 @@
 {
-    "grid":{
+    "grid": {
         "groupPanelEmpty": "Trascina una intestazione qui per raggruppare per la colonna scelta",
         "pagerItemsPerPage": "elementi per pagina",
         "pagerInfo": "{0} - {1} di {2} elementi",
@@ -9,7 +9,7 @@
         "pagerLastPage": "ultima pagina",
         "pagerPage": "Pagina",
         "pagerOf": "di",
-        "filterClearButton":"Ripulisci",
+        "filterClearButton": "Ripulisci",
         "filterEqOperator": "Uguale a",
         "filterNotEqOperator": "Diverso da",
         "filterIsNullOperator": "Nullo",
@@ -23,16 +23,16 @@
         "filterGteOperator": "Maggiore o uguale di",
         "filterGtOperator": "Maggiore di",
         "filterLteOperator": "Minore o uguale di",
-        "filterLtOperator":"Minore di",
-        "filterIsTrue":"Vero",
+        "filterLtOperator": "Minore di",
+        "filterIsTrue": "Vero",
         "filterIsFalse": "Falso",
         "filterBooleanAll": "(Tutti)",
         "filterAfterOrEqualOperator": "Successivo o uguale a",
         "filterAfterOperator": "Si trova dopo",
-        "filterBeforeOperator":"Si trova prima",
-        "filterBeforeOrEqualOperator":"Si trova prima o uguale a",
-        "noRecords":"Nessun record disponibile.",
-         "sortAscending": "Ordine crescente",
+        "filterBeforeOperator": "Si trova prima",
+        "filterBeforeOrEqualOperator": "Si trova prima o uguale a",
+        "noRecords": "Nessun record disponibile.",
+        "sortAscending": "Ordine crescente",
         "sortDescending": "Ordine decrescente"
     },
     "filter": {
@@ -62,14 +62,14 @@
         "addGroup": "Aggiungi Gruppo",
         "close": "Chiudi"
     },
-    "dateinput":{
+    "dateinput": {
         "increment": "Aumenta valore",
         "decrement": "Diminuisci valore"
     },
-    "calendar":{
-        "today":"OGGI"
+    "calendar": {
+        "today": "OGGI"
     },
-    "datepicker":{
+    "datepicker": {
         "toggleCalendar": "Attiva o Disattiva Calendario"
     },
     "daterangepicker": {
@@ -146,11 +146,11 @@
         "toggleTimeSelector": "Attiva o disattiva selettore del tempo",
         "toggleClock": "Attiva o disattiva Orologio"
     },
-    "dropdowns":{
+    "dropdowns": {
         "nodata": "NESSUN DAOT TROVATO.",
         "clear": "Ripulisci"
     },
-    "numerictextbox":{
+    "numerictextbox": {
         "increment": "Aumenta valore",
         "decrement": "Diminuisci valore"
     },
