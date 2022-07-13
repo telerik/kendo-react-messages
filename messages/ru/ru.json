@@ -1,5 +1,5 @@
 {
-    "grid":{
+    "grid": {
         "groupPanelEmpty": "Для группировки перетащите заголовок столбца в эту область",
         "pagerItemsPerPage": "строк на странице",
         "pagerInfo": "{0} - {1} из {2} строк",
@@ -9,7 +9,7 @@
         "pagerLastPage": "На последнюю страницу",
         "pagerPage": "Страница",
         "pagerOf": "из",
-        "filterClearButton":"Очистить",
+        "filterClearButton": "Очистить",
         "filterEqOperator": "Равно",
         "filterNotEqOperator": "Не равно",
         "filterIsNullOperator": "Равно NULL",
@@ -23,15 +23,30 @@
         "filterGteOperator": "Больше или равно",
         "filterGtOperator": "Больше",
         "filterLteOperator": "Меньше или равно",
-        "filterLtOperator":"Меньше",
-        "filterIsTrue":"Истина",
+        "filterLtOperator": "Меньше",
+        "filterIsTrue": "Истина",
         "filterIsFalse": "Ложь",
         "filterBooleanAll": "Любое",
         "filterAfterOrEqualOperator": "После включительно",
         "filterAfterOperator": "После",
-        "filterBeforeOperator":"До",
-        "filterBeforeOrEqualOperator":"До включительно",
-        "noRecords":"Нет записей"
+        "filterBeforeOperator": "До",
+        "filterBeforeOrEqualOperator": "До включительно",
+        "noRecords": "Нет записей",
+        "filterAriaLabel": "Фильтр",
+        "filterCheckAll": "Отметить все",
+        "filterChooseOperator": "Выберите оператора",
+        "filterSelectedItems": "выбранные предметы",
+        "filterSubmitButton": "Фильтр",
+        "filterTitle": "Фильтр",
+        "filterAndLogic": "И",
+        "filterOrLogic": "Или",
+        "groupColumn": "Столбец группы",
+        "pagerTotalPages": "{0}",
+        "searchPlaceholder": "Поиск",
+        "sortAriaLabel": "Сортируемый",
+        "sortAscending": "Сортировать по возрастанию",
+        "sortDescending": "Сортировать по убыванию",
+        "ungroupColumn": "Разгруппировать столбец"
     },
     "filter": {
         "eqOperator": "Равно",
@@ -58,16 +73,18 @@
         "orLogic": "Или",
         "addExpression": "Добавить выражение",
         "addGroup": "Добавить группу",
-        "Закрыть": "Закрыть"
+        "Закрыть": "Закрыть",
+        "close": "Закрывать",
+        "filterAriaLabel": "Фильтр"
     },
-    "dateinput":{
+    "dateinput": {
         "increment": "Увеличить",
         "decrement": "Уменьшить"
     },
-    "calendar":{
-        "today":"СЕГОДНЯ"
+    "calendar": {
+        "today": "СЕГОДНЯ"
     },
-    "datepicker":{
+    "datepicker": {
         "toggleCalendar": "Открыть календарь"
     },
     "daterangepicker": {
@@ -134,7 +151,34 @@
         "viewHtml": "Просмотр HTML",
         "viewHtml-dialog-title": "Просмотр HTML",
         "viewHtml-cancel": "Отмена",
-        "viewHtml-update": "Обновить"
+        "viewHtml-update": "Обновить",
+        "print": "Распечатать",
+        "selectAll": "Выбрать все",
+        "cleanFormatting": "Чистое форматирование",
+        "pdf": "Экспорт в PDF",
+        "foregroundColor": "Цвет",
+        "backgroundColor": "Фоновый цвет",
+        "insertFile": "Вставить файл",
+        "insertFileDialogTitle": "Вставить файл",
+        "insertFileAddress": "веб-адрес",
+        "insertFileTitle": "Заголовок",
+        "insertFileCancel": "Отмена",
+        "insertFileInsert": "Вставлять",
+        "findReplaceToolTitle": "Найти и заменить",
+        "findReplaceDialogTitle": "Найти и заменить",
+        "findReplaceTabFind": "Находить",
+        "findReplaceTabReplace": "Заменять",
+        "findReplaceFindWhat": "Найти то, что:",
+        "findReplaceReplaceWith": "Заменить",
+        "findReplaceReplace": "Заменять",
+        "findReplaceReplaceAll": "Заменить все",
+        "findReplaceMatchCase": "Учитывать регистр",
+        "findReplaceMatchWord": "Искать только целое слово",
+        "findReplaceMatchCyclic": "Циклическое совпадение (циклическое повторение)",
+        "findReplaceUseRegExp": "Регулярное выражение",
+        "findReplacePrevMatch": "Предыдущая",
+        "findReplaceNextMatch": "Следующий",
+        "findReplaceMatches": "{0} из {1} совпадений"
     },
     "timepicker": {
         "now": "СЕЙЧАС",
@@ -144,11 +188,11 @@
         "toggleTimeSelector": "Открыть выбор времени",
         "toggleClock": "Открыть часы"
     },
-    "dropdowns":{
+    "dropdowns": {
         "nodata": "НЕТ ДАННЫХ.",
         "clear": "Очистить"
     },
-    "numerictextbox":{
+    "numerictextbox": {
         "increment": "Увеличить",
         "decrement": "Уменьшить"
     },
@@ -167,7 +211,11 @@
         "select": "Выбрать файлы...",
         "uploadSelectedFiles": "Загрузить",
         "total": "Всего",
-        "files": "файлов"
+        "files": "файлов",
+        "dropZoneHint": "Перетащите сюда файлы для загрузки.",
+        "dropZoneNote": "Разрешены только файлы JPEG и PNG.",
+        "statusUploadFailed": "Не удалось загрузить файл (ы).",
+        "statusUploaded": "Файл (ы) успешно загружен."
     },
     "sortable": {
         "noData": "Нет данных"
@@ -180,7 +228,8 @@
         "nextPage": "На следующую страницу",
         "lastPage": "На последнюю страницу",
         "page": "Страница",
-        "of": "из"
+        "of": "из",
+        "pagerTotalPages": "{0}"
     },
     "treelist": {
         "filterClearButton": "Очистить",
@@ -284,5 +333,139 @@
         "timeTitle": "Время",
         "eventTitle": "Мероприятие",
         "noEvents": "нет мероприятий"
+    },
+    "listbox": {
+        "moveUp": "Двигаться вверх",
+        "moveDown": "Вниз",
+        "transferTo": "Трансфер в",
+        "transferFrom": "Перенос из",
+        "transferAllTo": "Перенести все в",
+        "transferAllFrom": "Перенести все из",
+        "remove": "Удалить"
+    },
+    "stepper": {
+        "optionalText": "(По желанию)"
+    },
+    "labels": {
+        "labelsOptional": "(По желанию)"
+    },
+    "slider": {
+        "increment": "Увеличивать",
+        "decrement": "Снижаться",
+        "dragTitle": "Тяга"
+    },
+    "colorGradient": {
+        "r": "р",
+        "g": "г",
+        "b": "б",
+        "a": "а",
+        "hex": "шестнадцатеричный",
+        "contrastRatio": "Контрастность",
+        "colorGradientAALevel": "AA",
+        "colorGradientAAALevel": "AAA",
+        "colorGradientPass": "Проходят",
+        "colorGradientFail": "Потерпеть поражение"
+    },
+    "checkbox": {
+        "validation": "Установите этот флажок, если хотите продолжить!",
+        "optionalText": "(По желанию)"
+    },
+    "radioButton": {
+        "validation": "Пожалуйста, выберите вариант, если хотите продолжить!"
+    },
+    "switch": {
+        "validation": "Пожалуйста, включите, если хотите продолжить!"
+    },
+    "gantt": {
+        "weekViewTitle": "Неделю",
+        "dayViewTitle": "День",
+        "monthViewTitle": "Месяц",
+        "yearViewTitle": "Год",
+        "filterClearButton": "Прозрачный",
+        "filterEqOperator": "Равно",
+        "filterNotEqOperator": "Не равно",
+        "filterIsNullOperator": "Нулевой",
+        "filterIsNotNullOperator": "Не равно нулю",
+        "filterIsEmptyOperator": "Пусто",
+        "filterIsNotEmptyOperator": "Не пусто",
+        "filterStartsWithOperator": "Начинается с",
+        "filterContainsOperator": "Содержит",
+        "filterNotContainsOperator": "Не содержит",
+        "filterEndsWithOperator": "Заканчивается на",
+        "filterGteOperator": "Больше или равно",
+        "filterGtOperator": "Больше, чем",
+        "filterLteOperator": "Меньше или равно",
+        "filterLtOperator": "Меньше чем",
+        "filterIsTrue": "Правда",
+        "filterIsFalse": "Ложно",
+        "filterBooleanAll": "(Все)",
+        "filterAfterOrEqualOperator": "После или равно",
+        "filterAfterOperator": "После",
+        "filterBeforeOperator": "Это раньше",
+        "filterBeforeOrEqualOperator": "Раньше или равно",
+        "noRecords": "Нет доступных записей",
+        "editorSave": "Сохранять",
+        "editorCancel": "Отмена",
+        "editorTitle": "Задача",
+        "editorTaskTitle": "Заголовок",
+        "editorTaskStart": "Начинать",
+        "editorTaskEnd": "Конец",
+        "editorTaskComplete": "Полный",
+        "editorValidationRequired": "Поле, обязательное для заполнения.",
+        "editorValidationStart": "Время начала должно быть раньше времени окончания.",
+        "editorValidationEnd": "Время окончания должно быть позже времени начала.",
+        "addTask": "Добавить задачу",
+        "addChild": "Добавить ребенка",
+        "addAbove": "Добавить выше",
+        "addBelow": "Добавить ниже",
+        "editorDelete": "Удалить",
+        "deleteConfirmation": "Вы уверены, что хотите удалить это мероприятие?",
+        "deleteDialogTitle": "Удалить мероприятие"
+    },
+    "multiviewcalendar": {
+        "prevView": "Перейти к предыдущему просмотру",
+        "nextView": "Перейти к следующему просмотру"
+    },
+    "columnMenu": {
+        "columnMenuFilterClearButton": "Прозрачный",
+        "columnMenuFilterSubmitButton": "Фильтр",
+        "columnMenuFilterTitle": "Фильтр",
+        "columnMenuSortAscending": "Сортировать по возрастанию",
+        "columnMenuSortDescending": "Сортировать по убыванию",
+        "columnMenuFilterEqOperator": "Равно",
+        "columnMenuFilterNotEqOperator": "Не равно",
+        "columnMenuFilterIsNullOperator": "Нулевой",
+        "columnMenuFilterIsNotNullOperator": "Не равно нулю",
+        "columnMenuFilterIsEmptyOperator": "Пусто",
+        "columnMenuFilterIsNotEmptyOperator": "Не пусто",
+        "columnMenuFilterStartsWithOperator": "Начинается с",
+        "columnMenuFilterContainsOperator": "Содержит",
+        "columnMenuFilterNotContainsOperator": "Не содержит",
+        "columnMenuFilterEndsWithOperator": "Заканчивается на",
+        "columnMenuFilterGteOperator": "Больше или равно",
+        "columnMenuFilterGtOperator": "Больше, чем",
+        "columnMenuFilterLteOperator": "Меньше или равно",
+        "columnMenuFilterLtOperator": "Меньше чем",
+        "columnMenuFilterIsTrue": "Правда",
+        "columnMenuFilterAfterOrEqualOperator": "После или равно",
+        "columnMenuFilterAfterOperator": "После",
+        "columnMenuFilterBeforeOperator": "Это раньше",
+        "columnMenuFilterBeforeOrEqualOperator": "Раньше или равно",
+        "columnMenuFilterAndLogic": "И",
+        "columnMenuFilterOrLogic": "Или"
+    },
+    "pivotgrid": {
+        "fieldMenuReset": "Перезагрузить",
+        "fieldMenuApply": "Применять",
+        "configuratorCancel": "Отмена",
+        "configuratorApply": "Применять",
+        "configuratorTitle": "Настройки",
+        "configuratorEditorSearchTitle": "Поля",
+        "configuratorEditorSearchPlaceholder": "Поиск...",
+        "configuratorColumnsTitle": "Столбцы",
+        "configuratorRowsTitle": "Рядов",
+        "configuratorMeasuresTitle": "Ценности",
+        "configuratorButtonLabel": "Изменить настройки",
+        "configuratorMissingFields": "Выберите несколько полей, чтобы начать настройку"
     }
 }

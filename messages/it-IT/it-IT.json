@@ -1,5 +1,5 @@
 {
-    "grid":{
+    "grid": {
         "groupPanelEmpty": "Trascina una intestazione qui per raggruppare per la colonna scelta",
         "pagerItemsPerPage": "elementi per pagina",
         "pagerInfo": "{0} - {1} di {2} elementi",
@@ -9,7 +9,7 @@
         "pagerLastPage": "ultima pagina",
         "pagerPage": "Pagina",
         "pagerOf": "di",
-        "filterClearButton":"Ripulisci",
+        "filterClearButton": "Ripulisci",
         "filterEqOperator": "Uguale a",
         "filterNotEqOperator": "Diverso da",
         "filterIsNullOperator": "Nullo",
@@ -23,15 +23,30 @@
         "filterGteOperator": "Maggiore o uguale di",
         "filterGtOperator": "Maggiore di",
         "filterLteOperator": "Minore o uguale di",
-        "filterLtOperator":"Minore di",
-        "filterIsTrue":"Vero",
+        "filterLtOperator": "Minore di",
+        "filterIsTrue": "Vero",
         "filterIsFalse": "Falso",
         "filterBooleanAll": "(Tutti)",
         "filterAfterOrEqualOperator": "Successivo o uguale a",
         "filterAfterOperator": "Si trova dopo",
-        "filterBeforeOperator":"Si trova prima",
-        "filterBeforeOrEqualOperator":"Si trova prima o uguale a",
-        "noRecords":"Nessun record disponibile."
+        "filterBeforeOperator": "Si trova prima",
+        "filterBeforeOrEqualOperator": "Si trova prima o uguale a",
+        "noRecords": "Nessun record disponibile.",
+        "filterAriaLabel": "Filtro",
+        "filterCheckAll": "Seleziona tutto",
+        "filterChooseOperator": "Scegli operatore",
+        "filterSelectedItems": "oggetti selezionati",
+        "filterSubmitButton": "Filtro",
+        "filterTitle": "Filtro",
+        "filterAndLogic": "e",
+        "filterOrLogic": "o",
+        "groupColumn": "Colonna gruppo",
+        "pagerTotalPages": "{0}",
+        "searchPlaceholder": "Ricerca",
+        "sortAriaLabel": "Ordinabile",
+        "sortAscending": "Ordine crescente",
+        "sortDescending": "Ordine decrescente",
+        "ungroupColumn": "Separa colonna"
     },
     "filter": {
         "eqOperator": "Uguale a",
@@ -58,16 +73,17 @@
         "orLogic": "Oppure",
         "addExpression": "Aggiungi Espressione",
         "addGroup": "Aggiungi Gruppo",
-        "close": "Chiudi"
+        "close": "Chiudi",
+        "filterAriaLabel": "Filtro"
     },
-    "dateinput":{
+    "dateinput": {
         "increment": "Aumenta valore",
         "decrement": "Diminuisci valore"
     },
-    "calendar":{
-        "today":"OGGI"
+    "calendar": {
+        "today": "OGGI"
     },
-    "datepicker":{
+    "datepicker": {
         "toggleCalendar": "Attiva o Disattiva Calendario"
     },
     "daterangepicker": {
@@ -134,7 +150,34 @@
         "viewHtml": "Vista HTML",
         "viewHtml-dialog-title": "Vista HTML",
         "viewHtml-cancel": "Annulla",
-        "viewHtml-update": "Aggiorna"
+        "viewHtml-update": "Aggiorna",
+        "print": "Stampa",
+        "selectAll": "Seleziona tutto",
+        "cleanFormatting": "Formattazione pulita",
+        "pdf": "Esporta come PDF",
+        "foregroundColor": "Colore",
+        "backgroundColor": "Colore di sfondo",
+        "insertFile": "Inserisci file",
+        "insertFileDialogTitle": "Inserisci file",
+        "insertFileAddress": "indirizzo Web",
+        "insertFileTitle": "Titolo",
+        "insertFileCancel": "Annulla",
+        "insertFileInsert": "Inserire",
+        "findReplaceToolTitle": "Trova e sostituisci",
+        "findReplaceDialogTitle": "Trova e sostituisci",
+        "findReplaceTabFind": "Trovare",
+        "findReplaceTabReplace": "Sostituire",
+        "findReplaceFindWhat": "Trovare cosa:",
+        "findReplaceReplaceWith": "Sostituirlo con",
+        "findReplaceReplace": "Sostituire",
+        "findReplaceReplaceAll": "Sostituisci tutto",
+        "findReplaceMatchCase": "Fiammifero",
+        "findReplaceMatchWord": "Abbina solo parole intere",
+        "findReplaceMatchCyclic": "Partita ciclica (avvolgi)",
+        "findReplaceUseRegExp": "Espressione regolare",
+        "findReplacePrevMatch": "Precedente",
+        "findReplaceNextMatch": "Prossimo",
+        "findReplaceMatches": "{0} di {1} corrispondenze"
     },
     "timepicker": {
         "now": "ORA CORRENTE",
@@ -144,11 +187,11 @@
         "toggleTimeSelector": "Attiva o disattiva selettore del tempo",
         "toggleClock": "Attiva o disattiva Orologio"
     },
-    "dropdowns":{
+    "dropdowns": {
         "nodata": "NESSUN DAOT TROVATO.",
         "clear": "Ripulisci"
     },
-    "numerictextbox":{
+    "numerictextbox": {
         "increment": "Aumenta valore",
         "decrement": "Diminuisci valore"
     },
@@ -167,7 +210,11 @@
         "select": "Seleziona i files...",
         "uploadSelectedFiles": "Carica",
         "total": "Totale",
-        "files": "files"
+        "files": "files",
+        "dropZoneHint": "Trascina e rilascia i file qui per caricarli.",
+        "dropZoneNote": "Sono consentiti solo file JPEG e PNG.",
+        "statusUploadFailed": "Impossibile caricare i file.",
+        "statusUploaded": "File caricati con successo."
     },
     "sortable": {
         "noData": "Nessun dato"
@@ -180,7 +227,8 @@
         "nextPage": "Vai alla pagina successiva",
         "lastPage": "Vai Ultima pagina",
         "page": "Pagina",
-        "of": "di"
+        "of": "di",
+        "pagerTotalPages": "{0}"
     },
     "treelist": {
         "filterClearButton": "Ripulisci",
@@ -206,5 +254,217 @@
         "filterBeforeOperator": "Si trova prima",
         "filterBeforeOrEqualOperator": "Si trova prima o uguale a",
         "noRecords": "Nessun record disponibile"
+    },
+    "scheduler": {
+        "editorValidationRequired": "Il campo è obbligatiorio.",
+        "editorValidationStart": "L'ora di inizio deve essere precedente all'ora di fine.",
+        "editorValidationEnd": "L'ora di fine deve essere successiva all'ora di inizio.",
+        "allEvents": "Tutti gli eventi",
+        "allDay": "tutto il giorno",
+        "today": "Oggi",
+        "dayViewTitle": "Giorno",
+        "monthViewTitle": "Mese",
+        "weekViewTitle": "Settimana",
+        "workWeekViewTitle": "Settimana di lavoro",
+        "timelineViewTitle": "Sequenza temporale",
+        "agendaViewTitle": "Ordine del giorno",
+        "deleteTitle": "Eliminare",
+        "previousTitle": "Precedente",
+        "nextTitle": "Prossimo",
+        "showFullDay": "Mostra intera giornata",
+        "showWorkDay": "Mostra l'orario di lavoro",
+        "editorOccurrence": "Modifica occorrenza corrente",
+        "editorSeries": "Modifica la serie",
+        "editorRecurringConfirmation": "Vuoi modificare solo questa occorrenza dell'evento o l'intera serie?",
+        "editorRecurringDialogTitle": "Modifica elemento ricorrente",
+        "editorSave": "Salva",
+        "editorCancel": "Annulla",
+        "editorDelete": "Eliminare",
+        "editorTitle": "Evento",
+        "editorEventTitle": "Titolo",
+        "editorEventStart": "Inizio",
+        "editorEventStartTimeZone": "Fuso orario iniziale",
+        "editorEventEnd": "Fine",
+        "editorEventEndTimeZone": "Fine fuso orario",
+        "editorEventAllDay": "Evento tutto il giorno",
+        "editorEventDescription": "Descrizione",
+        "editorEventSeparateTimeZones": "Fine in un fuso orario diverso",
+        "editorEventTimeZone": "Specifica fuso orario",
+        "recurrenceEditorRepeat": "Ripetere",
+        "recurrenceEditorDailyInterval": "giorno/i",
+        "recurrenceEditorDailyRepeatEvery": "Ripeti ogni",
+        "recurrenceEditorWeeklyInterval": "settimana/e",
+        "recurrenceEditorWeeklyRepeatEvery": "Ripeti ogni",
+        "recurrenceEditorWeeklyRepeatOn": "Ripeti su",
+        "recurrenceEditorMonthlyDay": "Giorno",
+        "recurrenceEditorMonthlyInterval": "mesi)",
+        "recurrenceEditorMonthlyRepeatEvery": "Ripeti ogni",
+        "recurrenceEditorMonthlyRepeatOn": "Ripeti su",
+        "recurrenceEditorYearlyOf": "di",
+        "recurrenceEditorYearlyRepeatEvery": "Ripeti ogni",
+        "recurrenceEditorYearlyRepeatOn": "Ripeti su",
+        "recurrenceEditorYearlyInterval": "anni)",
+        "recurrenceEditorFrequenciesDaily": "Quotidiano",
+        "recurrenceEditorFrequenciesMonthly": "Mensile",
+        "recurrenceEditorFrequenciesNever": "Mai",
+        "recurrenceEditorFrequenciesWeekly": "settimanalmente",
+        "recurrenceEditorFrequenciesYearly": "Annuale",
+        "recurrenceEditorOffsetPositionsFirst": "Primo",
+        "recurrenceEditorOffsetPositionsSecond": "Secondo",
+        "recurrenceEditorOffsetPositionsThird": "Terzo",
+        "recurrenceEditorOffsetPositionsFourth": "Il quarto",
+        "recurrenceEditorOffsetPositionsLast": "Scorso",
+        "recurrenceEditorWeekdaysDay": "Giorno",
+        "recurrenceEditorWeekdaysWeekday": "giorno della settimana",
+        "recurrenceEditorWeekdaysWeekendday": "Giorno del fine settimana",
+        "recurrenceEditorEndAfter": "A seguito di",
+        "recurrenceEditorEndOccurrence": "occorrenza(e)",
+        "recurrenceEditorEndLabel": "Fine",
+        "recurrenceEditorEndNever": "Mai",
+        "recurrenceEditorEndOn": "Sopra",
+        "deleteConfirmation": "sei sicuro di voler cancellare questo evento?",
+        "deleteRecurringConfirmation": "Vuoi eliminare solo questa occorrenza dell'evento o l'intera serie?",
+        "deleteOccurrence": "Elimina occorrenza corrente",
+        "deleteSeries": "Elimina la serie",
+        "deleteDialogTitle": "Elimina evento",
+        "deleteRecurringDialogTitle": "Elimina elemento ricorrente",
+        "dateTitle": "Data",
+        "timeTitle": "Volta",
+        "eventTitle": "Evento",
+        "noEvents": "nessun evento"
+    },
+    "listbox": {
+        "moveUp": "Andare avanti",
+        "moveDown": "Abbassati",
+        "transferTo": "Trasferire a",
+        "transferFrom": "Trasferito da",
+        "transferAllTo": "Trasferisci tutto a",
+        "transferAllFrom": "Trasferisci tutto da",
+        "remove": "Eliminare"
+    },
+    "stepper": {
+        "optionalText": "(Opzionale)"
+    },
+    "labels": {
+        "labelsOptional": "(Opzionale)"
+    },
+    "slider": {
+        "increment": "Aumento",
+        "decrement": "Diminuire",
+        "dragTitle": "Trascinare"
+    },
+    "colorGradient": {
+        "r": "R",
+        "g": "G",
+        "b": "B",
+        "a": "un",
+        "hex": "esadecimale",
+        "contrastRatio": "Rapporto di contrasto",
+        "colorGradientAALevel": "aa",
+        "colorGradientAAALevel": "AAA",
+        "colorGradientPass": "Passaggio",
+        "colorGradientFail": "Fallire"
+    },
+    "checkbox": {
+        "validation": "Seleziona questa casella se vuoi procedere!",
+        "optionalText": "(Opzionale)"
+    },
+    "radioButton": {
+        "validation": "Si prega di selezionare l'opzione se si desidera procedere!"
+    },
+    "switch": {
+        "validation": "Per favore accendi se vuoi procedere!"
+    },
+    "gantt": {
+        "weekViewTitle": "Settimana",
+        "dayViewTitle": "Giorno",
+        "monthViewTitle": "Mese",
+        "yearViewTitle": "Anno",
+        "filterClearButton": "Chiaro",
+        "filterEqOperator": "È uguale a",
+        "filterNotEqOperator": "Non è uguale a",
+        "filterIsNullOperator": "È zero",
+        "filterIsNotNullOperator": "non è nullo",
+        "filterIsEmptyOperator": "È vuoto",
+        "filterIsNotEmptyOperator": "Non è vuoto",
+        "filterStartsWithOperator": "Inizia con",
+        "filterContainsOperator": "contiene",
+        "filterNotContainsOperator": "Non contiene",
+        "filterEndsWithOperator": "Finisce con",
+        "filterGteOperator": "È più grande di O uguale a",
+        "filterGtOperator": "È più grande di",
+        "filterLteOperator": "È minore o uguale a",
+        "filterLtOperator": "È meno di",
+        "filterIsTrue": "È vero",
+        "filterIsFalse": "È falso",
+        "filterBooleanAll": "(Tutto)",
+        "filterAfterOrEqualOperator": "È dopo o uguale a",
+        "filterAfterOperator": "è dopo",
+        "filterBeforeOperator": "è prima",
+        "filterBeforeOrEqualOperator": "È prima o uguale a",
+        "noRecords": "Nessun record disponibile",
+        "editorSave": "Salva",
+        "editorCancel": "Annulla",
+        "editorTitle": "Compito",
+        "editorTaskTitle": "Titolo",
+        "editorTaskStart": "Inizio",
+        "editorTaskEnd": "Fine",
+        "editorTaskComplete": "Completare",
+        "editorValidationRequired": "Il campo è obbligatiorio.",
+        "editorValidationStart": "L'ora di inizio deve essere precedente all'ora di fine.",
+        "editorValidationEnd": "L'ora di fine deve essere successiva all'ora di inizio.",
+        "addTask": "Aggiungi attività",
+        "addChild": "Aggiungi bambino",
+        "addAbove": "Aggiungi sopra",
+        "addBelow": "Aggiungi sotto",
+        "editorDelete": "Eliminare",
+        "deleteConfirmation": "sei sicuro di voler cancellare questo evento?",
+        "deleteDialogTitle": "Elimina evento"
+    },
+    "multiviewcalendar": {
+        "prevView": "Vai alla vista precedente",
+        "nextView": "Passa alla visualizzazione successiva"
+    },
+    "columnMenu": {
+        "columnMenuFilterClearButton": "Chiaro",
+        "columnMenuFilterSubmitButton": "Filtro",
+        "columnMenuFilterTitle": "Filtro",
+        "columnMenuSortAscending": "Ordine crescente",
+        "columnMenuSortDescending": "Ordine decrescente",
+        "columnMenuFilterEqOperator": "È uguale a",
+        "columnMenuFilterNotEqOperator": "Non è uguale a",
+        "columnMenuFilterIsNullOperator": "È zero",
+        "columnMenuFilterIsNotNullOperator": "non è nullo",
+        "columnMenuFilterIsEmptyOperator": "È vuoto",
+        "columnMenuFilterIsNotEmptyOperator": "Non è vuoto",
+        "columnMenuFilterStartsWithOperator": "Inizia con",
+        "columnMenuFilterContainsOperator": "contiene",
+        "columnMenuFilterNotContainsOperator": "Non contiene",
+        "columnMenuFilterEndsWithOperator": "Finisce con",
+        "columnMenuFilterGteOperator": "È più grande di O uguale a",
+        "columnMenuFilterGtOperator": "È più grande di",
+        "columnMenuFilterLteOperator": "È minore o uguale a",
+        "columnMenuFilterLtOperator": "È meno di",
+        "columnMenuFilterIsTrue": "È vero",
+        "columnMenuFilterAfterOrEqualOperator": "È dopo o uguale a",
+        "columnMenuFilterAfterOperator": "è dopo",
+        "columnMenuFilterBeforeOperator": "è prima",
+        "columnMenuFilterBeforeOrEqualOperator": "È prima o uguale a",
+        "columnMenuFilterAndLogic": "e",
+        "columnMenuFilterOrLogic": "o"
+    },
+    "pivotgrid": {
+        "fieldMenuReset": "Ripristina",
+        "fieldMenuApply": "Applicare",
+        "configuratorCancel": "Annulla",
+        "configuratorApply": "Applicare",
+        "configuratorTitle": "Impostazioni",
+        "configuratorEditorSearchTitle": "Campi",
+        "configuratorEditorSearchPlaceholder": "Ricerca...",
+        "configuratorColumnsTitle": "colonne",
+        "configuratorRowsTitle": "righe",
+        "configuratorMeasuresTitle": "I valori",
+        "configuratorButtonLabel": "Cambia impostazioni",
+        "configuratorMissingFields": "Seleziona alcuni campi per iniziare la configurazione"
     }
 }
