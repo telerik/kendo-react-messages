@@ -273,7 +273,7 @@
         "nextTitle": "Sonraki",
         "showFullDay": "Tam günü göster",
         "showWorkDay": "Çalışma saatlerini göster",
-        "editorOccurrence": "Geçerli oluşumu düzenle",
+        "editOccurrence": "Geçerli oluşumu düzenle",
         "editorSeries": "Seriyi düzenle",
         "editorRecurringConfirmation": "Yalnızca bu olayı mı yoksa tüm seriyi mi düzenlemek istiyorsunuz?",
         "editorRecurringDialogTitle": "Yinelenen Öğeyi Düzenle",

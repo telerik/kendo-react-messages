@@ -273,7 +273,7 @@
         "nextTitle": "Prossimo",
         "showFullDay": "Mostra intera giornata",
         "showWorkDay": "Mostra l'orario di lavoro",
-        "editorOccurrence": "Modifica occorrenza corrente",
+        "editOccurrence": "Modifica occorrenza corrente",
         "editorSeries": "Modifica la serie",
         "editorRecurringConfirmation": "Vuoi modificare solo questa occorrenza dell'evento o l'intera serie?",
         "editorRecurringDialogTitle": "Modifica elemento ricorrente",

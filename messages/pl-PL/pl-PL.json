@@ -273,7 +273,7 @@
         "nextTitle": "Następny",
         "showFullDay": "Pokaż cały dzień",
         "showWorkDay": "Pokaż godziny pracy",
-        "editorOccurrence": "Edytuj bieżące wystąpienie",
+        "editOccurrence": "Edytuj bieżące wystąpienie",
         "editorSeries": "Edytuj serię",
         "editorRecurringConfirmation": "Czy chcesz edytować tylko to wystąpienie zdarzenia, czy całą serię?",
         "editorRecurringDialogTitle": "Edytuj element cykliczny",

@@ -274,7 +274,7 @@
         "nextTitle": "próximo",
         "showFullDay": "Mostrar día completo",
         "showWorkDay": "Mostrar horario comercial",
-        "editorOccurrence": "Editar ocurrencia actual",
+        "editOccurrence": "Editar ocurrencia actual",
         "editorSeries": "Edita la serie",
         "editorRecurringConfirmation": "¿Quieres editar solo la ocurrencia de este evento o toda la serie?",
         "editorRecurringDialogTitle": "Editar artículo recurrente",

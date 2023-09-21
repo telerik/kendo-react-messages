@@ -273,7 +273,7 @@
         "nextTitle": "Volgende",
         "showFullDay": "Toon volledige dag",
         "showWorkDay": "Toon openingstijden",
-        "editorOccurrence": "Huidige instantie bewerken",
+        "editOccurrence": "Huidige instantie bewerken",
         "editorSeries": "Bewerk de serie",
         "editorRecurringConfirmation": "Wilt u alleen deze gebeurtenis of de hele reeks bewerken?",
         "editorRecurringDialogTitle": "Terugkerend item bewerken",

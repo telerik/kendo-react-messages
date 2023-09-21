@@ -273,7 +273,7 @@
         "nextTitle": "下一个",
         "showFullDay": "显示全天",
         "showWorkDay": "显示营业时间",
-        "editorOccurrence": "编辑当前事件",
+        "editOccurrencev": "编辑当前事件",
         "editorSeries": "编辑系列",
         "editorRecurringConfirmation": "您只想编辑此事件发生还是整个系列？",
         "editorRecurringDialogTitle": "编辑重复项目",

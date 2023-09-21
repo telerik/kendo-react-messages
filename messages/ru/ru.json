@@ -274,7 +274,7 @@
         "nextTitle": "Следующий(ая)",
         "showFullDay": "Весь день",
         "showWorkDay": "Только рабочие часы",
-        "editorOccurrence": "Только это мероприятие",
+        "editOccurrence": "Только это мероприятие",
         "editorSeries": "Все мероприятия",
         "editorRecurringConfirmation": "Вы хотите изменить только это мероприятие или всю серию?",
         "editorRecurringDialogTitle": "Изменение повторяющегося мероприятия",

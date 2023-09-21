@@ -273,7 +273,7 @@
         "nextTitle": "Következő",
         "showFullDay": "Mutasd a teljes napot",
         "showWorkDay": "Nyitvatartási idő megjelenítése",
-        "editorOccurrence": "Az aktuális előfordulás szerkesztése",
+        "editOccurrence": "Az aktuális előfordulás szerkesztése",
         "editorSeries": "Szerkessze a sorozatot",
         "editorRecurringConfirmation": "Csak ezt az eseményelőfordulást szeretné szerkeszteni, vagy a teljes sorozatot?",
         "editorRecurringDialogTitle": "Ismétlődő elem szerkesztése",

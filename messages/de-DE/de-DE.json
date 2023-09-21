@@ -202,7 +202,7 @@
     	"nextTitle": "Weiter",
     	"showFullDay": "Ganztägig anzeigen",
     	"showWorkDay": "Geschäftszeiten anzeigen",
-    	"editorOccurrence": "Aktuelles Vorkommen bearbeiten",
+    	"editOccurrence": "Aktuelles Vorkommen bearbeiten",
     	"editorSeries": "Gesamte Serie bearbeiten",
     	"editorRecurringConfirmation": "Möchten Sie nur dieses Ereignis oder die gesamte Serie bearbeiten?",
     	"editorRecurringDialogTitle": "Wiederkehrendes Ereignis bearbeiten",

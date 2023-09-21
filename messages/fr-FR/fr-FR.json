@@ -273,7 +273,7 @@
         "nextTitle": "Suivant",
         "showFullDay": "Afficher toute la journée",
         "showWorkDay": "Afficher les heures d'ouverture",
-        "editorOccurrence": "Modifier l'occurrence actuelle",
+        "editOccurrence": "Modifier l'occurrence actuelle",
         "editorSeries": "Modifier la série",
         "editorRecurringConfirmation": "Voulez-vous modifier uniquement cette occurrence d'événement ou toute la série ?",
         "editorRecurringDialogTitle": "Modifier l'élément récurrent",

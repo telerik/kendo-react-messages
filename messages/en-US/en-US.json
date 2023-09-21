@@ -283,7 +283,7 @@
     "nextTitle": "Next",
     "showFullDay": "Show full day",
     "showWorkDay": "Show business hours",
-    "editorOccurrence": "Edit current occurrence",
+    "editOccurrence": "Edit current occurrence",
     "editorSeries": "Edit the series",
     "editorRecurringConfirmation": "Do you want to edit only this event occurrence or the whole series?",
     "editorRecurringDialogTitle": "Edit Recurring Item",

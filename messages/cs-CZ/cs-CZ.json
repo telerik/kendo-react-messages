@@ -273,7 +273,7 @@
         "nextTitle": "další",
         "showFullDay": "Zobrazit celý den",
         "showWorkDay": "Zobrazit otevírací dobu",
-        "editorOccurrence": "Upravit aktuální výskyt",
+        "editOccurrence": "Upravit aktuální výskyt",
         "editorSeries": "Upravit sérii",
         "editorRecurringConfirmation": "Chcete upravit pouze tento výskyt události nebo celou sérii?",
         "editorRecurringDialogTitle": "Upravit opakující se položku",

@@ -273,7 +273,7 @@
         "nextTitle": "下一個",
         "showFullDay": "顯示全天",
         "showWorkDay": "顯示營業時間",
-        "editorOccurrence": "編輯當前事件",
+        "editOccurrence": "編輯當前事件",
         "editorSeries": "編輯系列",
         "editorRecurringConfirmation": "您只想編輯此事件發生還是整個系列？",
         "editorRecurringDialogTitle": "編輯重複項目",
