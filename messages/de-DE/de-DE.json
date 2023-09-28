@@ -32,7 +32,7 @@
         "filterAfterOperator": "Danach",
         "filterBeforeOperator":"Davor",
         "filterBeforeOrEqualOperator":"Davor oder gleich",
-        "noRecords":"Keine Einträge vorhanden."
+        "noRecords":"Keine Einträge vorhanden.",
         "filterAriaLabel": "Filter",
     	"filterCheckAll": "Alle prüfen",
     	"filterChooseOperator": "Operator wählen",
