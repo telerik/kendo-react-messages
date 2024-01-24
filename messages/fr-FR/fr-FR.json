@@ -9,7 +9,7 @@
         "pagerLastPage": "Aller à la dernière page",
         "pagerPage": "Page",
         "pagerOf": "de",
-        "filterClearButton": "Dégager",
+        "filterClearButton": "Effacer",
         "filterEqOperator": "Est égal à",
         "filterNotEqOperator": "n'est pas égal à",
         "filterIsNullOperator": "est nul",
@@ -189,7 +189,7 @@
     },
     "dropdowns": {
         "nodata": "AUCUNE DONNÉE DISPONIBLE.",
-        "clear": "Dégager"
+        "clear": "Effacer"
     },
     "numerictextbox": {
         "increment": "Augmenter la valeur",
@@ -197,7 +197,7 @@
     },
     "upload": {
         "cancel": "Annuler",
-        "clearSelectedFiles": "Dégager",
+        "clearSelectedFiles": "Effacer",
         "dropFilesHere": "Déposer des fichiers ici pour télécharger",
         "headerStatusUploaded": "Fait",
         "headerStatusUploading": "Téléchargement...",
@@ -231,7 +231,7 @@
         "pagerTotalPages": "{0}"
     },
     "treelist": {
-        "filterClearButton": "Dégager",
+        "filterClearButton": "Effacer",
         "filterEqOperator": "Est égal à",
         "filterNotEqOperator": "n'est pas égal à",
         "filterIsNullOperator": "est nul",
@@ -380,7 +380,7 @@
         "dayViewTitle": "Jour",
         "monthViewTitle": "Mois",
         "yearViewTitle": "An",
-        "filterClearButton": "Dégager",
+        "filterClearButton": "Effacer",
         "filterEqOperator": "Est égal à",
         "filterNotEqOperator": "n'est pas égal à",
         "filterIsNullOperator": "est nul",
@@ -426,7 +426,7 @@
         "nextView": "Naviguer vers la vue suivante"
     },
     "columnMenu": {
-        "columnMenuFilterClearButton": "Dégager",
+        "columnMenuFilterClearButton": "Effacer",
         "columnMenuFilterSubmitButton": "Filtre",
         "columnMenuFilterTitle": "Filtre",
         "columnMenuSortAscending": "Trier par ordre croissant",
