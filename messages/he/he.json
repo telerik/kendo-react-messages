@@ -1,0 +1,69 @@
+{
+  "datepicker": {
+    "toggleCalendar": "פתח לוח שנה"
+  },
+  "calendar": {
+    "today": "היום"
+  },
+  "dateinput": {
+    "increment": "הגדלת ערך",
+    "decrement": "הפחתת ערך"
+  },
+  "numerictextbox": {
+    "increment": "הגדלת ערך",
+    "decrement": "הפחתת ערך"
+  },
+  "grid": {
+    "groupPanelEmpty": "גרור כותרת עמודה ושחרר אותה כאן כדי לקבץ לפי עמודה זו",
+    "noRecords": "לא קיימות רשומות",
+    "pagerFirstPage": "לדף הראשון",
+    "pagerPreviousPage": "לדף הקודם",
+    "pagerNextPage": "לדף הבא",
+    "pagerLastPage": "לדף האחרון",
+    "pagerPage": "עמוד",
+    "pagerOf": "מ",
+    "pagerItems": "פריטים",
+    "pagerInfo": "{0} - {1} מתוך {2} פריטים",
+    "pagerItemsPerPage": "מספר פריטים לדף",
+    "filterEqOperator": "שווה ל",
+    "filterNotEqOperator": "לא שווה ל",
+    "filterIsNullOperator": "ערך null",
+    "filterIsNotNullOperator": "אינו ערך null",
+    "filterIsEmptyOperator": "ריק",
+    "filterIsNotEmptyOperator": "אינו ריק",
+    "filterStartsWithOperator": "מתחיל ב",
+    "filterContainsOperator": "מכיל",
+    "filterNotContainsOperator": "לא מכיל",
+    "filterEndsWithOperator": "מסתים ב",
+    "filterGteOperator": "גדול מ/שווה ל",
+    "filterGtOperator": "גדול מ",
+    "filterLteOperator": "קטן מ / שווה ל",
+    "filterLtOperator": "קטן מ",
+    "filterIsTrue": "האם נכון",
+    "filterIsFalse": "האם לא נכון",
+    "filterBooleanAll": "(הכל)",
+    "filterAfterOrEqualOperator": "האם אחרי / שווה ל",
+    "filterAfterOperator": "האם אחרי",
+    "filterBeforeOperator": "האם לפני",
+    "filterBeforeOrEqualOperator": "האם לפני / שווה ל",
+    "filterFilterButton": "סינון",
+    "filterClearButton": "נקה",
+    "filterAndLogic": "גם",
+    "filterOrLogic": "או"
+  },
+  "dropdowns":{
+    "nodata": "מידע לא נמצא",
+    "clear": "נקה"
+  },
+  "checkbox": {
+	  
+      "validation": "אנא בדוק את הקופסה הזאת אם אתה רוצה להמשיך!",
+      "optionalText": "(אופציונלי)"
+  },
+  "radioButton": {
+     "validation": "אנא בחר אפשרות אם אתה רוצה להמשיך!"
+  },
+  "switch": {
+      "validation": "אנא הפעל אם אתה רוצה להמשיך!"
+  }
+}
