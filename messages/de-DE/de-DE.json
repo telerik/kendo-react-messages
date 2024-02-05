@@ -1,6 +1,6 @@
 {
     "grid":{
-        "groupPanelEmpty": "Ziehen Sie einen Spaltentitel hierher um nach dieser Spalte zu gruppieren",
+        "groupPanelEmpty": "Ziehen Sie einen Spaltentitel hierher, um nach dieser Spalte zu gruppieren",
         "pagerItemsPerPage": "Einträge pro Seite",
         "pagerInfo": "{0} - {1} von {2} Einträgen",
         "pagerFirstPage": "Zur ersten Seite",
