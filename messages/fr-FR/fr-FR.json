@@ -88,16 +88,16 @@
     },
     "daterangepicker": {
         "swapStartEnd": "Échanger les valeurs de début et de fin",
-        "start": "Démarrer",
-        "end": "Finir",
+        "start": "Début",
+        "end": "Fin",
         "separator": " "
     },
     "datetimepicker": {
         "date": "Date",
-        "time": "Temps",
+        "time": "Heure",
         "toggleDateTimeSelector": "Basculer le sélecteur de date-heure",
         "cancel": "Annuler",
-        "set": "Ensemble"
+        "set": "Valider"
     },
     "editor": {
         "bold": "Audacieux",
@@ -183,7 +183,7 @@
         "now": "À PRÉSENT",
         "selectNow": "Sélectionnez maintenant",
         "cancel": "Annuler",
-        "set": "Ensemble",
+        "set": "Valider",
         "toggleTimeSelector": "Basculer le sélecteur de temps",
         "toggleClock": "Basculer l'horloge"
     },
