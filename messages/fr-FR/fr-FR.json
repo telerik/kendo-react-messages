@@ -88,8 +88,8 @@
     },
     "daterangepicker": {
         "swapStartEnd": "Échanger les valeurs de début et de fin",
-        "start": "Démarrer",
-        "end": "Finir",
+        "start": "Début",
+        "end": "Fin",
         "separator": " "
     },
     "datetimepicker": {
