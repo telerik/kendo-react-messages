@@ -94,10 +94,10 @@
     },
     "datetimepicker": {
         "date": "Date",
-        "time": "Temps",
+        "time": "Heure",
         "toggleDateTimeSelector": "Basculer le sélecteur de date-heure",
         "cancel": "Annuler",
-        "set": "Ensemble"
+        "set": "Valider"
     },
     "editor": {
         "bold": "Audacieux",
