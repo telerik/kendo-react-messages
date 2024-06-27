@@ -466,5 +466,23 @@
         "configuratorMeasuresTitle": "Valeurs",
         "configuratorButtonLabel": "Modifier les paramètres",
         "configuratorMissingFields": "Sélectionnez quelques champs pour commencer la configuration"
+    },
+    "pdfViewer": {
+        "zoomIn": "Zoom avant",
+        "zoomOut": "Zoom arrière",
+        "enableSelection": "Activer la sélection",
+        "enablePanning": "Activer le panoramique",
+        "search": "Rechercher",
+        "open": "Ouvrir",
+        "download": "Télécharger",
+        "print": "Imprimer",
+        "close": "Fermer",
+        "matchCase": "Respecter la casse",
+        "prevMatch": "Correspondance précédente",
+        "nextMatch": "Correspondance suivante",
+        "actualWidth": "Largeur réelle",
+        "fitToWidth": "Ajuster à la largeur",
+        "fitToPage": "Ajuster à la page",
+        "popupBlocked": "Le popup est bloqué"
     }
 }
